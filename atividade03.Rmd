@@ -1,0 +1,19 @@
+---
+title: "Atividade 03"
+subtitle: "Comparação de modelos para a análise de dados censurados à direita"
+author: 
+  - Lucas Stefano Xavier de Sousa
+  - RA: "116981"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+## A Pesquisa
+
+O título da pesquisa se refere a uma comparação de modelos de sobrevivência para verificar o número de censuras nas estimações. O tema da pesquisa é focado em Análise de sobrevivência. O problema da pesquisa está em um estudo comparativo entre os modelos utilizadas em análise de regressão: Modelo Cox e Modelo Poisson.
+
+
+## Metodologia
+
+A metodologia durante o projeto do TCC considera de forma priomordial o Modelo Cox (que pode ser chamado também de modelo semi-paramétrico)
